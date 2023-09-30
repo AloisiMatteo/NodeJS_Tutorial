@@ -38,11 +38,12 @@ Puoi anche usare `INNER JOIN` anzichè `JOIN`, produrranno lo stesso risultato!
 Se vuoi `mostrare` tutti gli utenti, `senza riguardo` se hanno un prodotto preferito o no,
     possiamo usare lo statement `LEFT JOIN`, infatti la seguente `query`:
 
->   
+```
 SELECT nome FROM utenti AS user,
 nome FROM prodotti AS favorite
 FROM utenti LEFT JOIN prodotti
 ON utenti.prodotto_preferito = prodotto.id
+```
 
 Produrrà questo risultato:
 
@@ -62,11 +63,12 @@ Produrrà questo risultato:
 Se vuoi `mostrare` tutti i prodotti, e gli utenti che li hanno come `favoriti`, anche `senza` utenti che hanno quel 
 prodotto tra i `favoriti`, possiamo usare lo statement `RIGHT JOIN`, infatti:
 
->   
+```
 SELECT nome FROM utenti AS user,
 nome FROM prodotti AS favorite
 FROM utenti RIGHT JOIN prodotti
 ON utenti.prodotto_preferito = prodotto.id
+```
 
 Produrrà questo risultato:
 
