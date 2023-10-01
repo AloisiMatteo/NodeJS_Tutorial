@@ -22,7 +22,7 @@ Bisogna effettuare 3 passaggi per `caricare un file` attraverso l'uso del `modul
 2. Analizza il file caricato (`metodo parse()`)
 3. Salva il file
 
-### Creare una forma
+### Creare un form
 
 `Creiamo una form` di compilazione `HTML` con NodeJS, questa form dovrà avere un campo di `caricamento file`
    (esempio [qui](08_Esempio01.js))
