@@ -1,7 +1,7 @@
 # 08 - Delete (query)
 
 Per `cancellare record` da una taballa esistente viene usara la dichiarazione `DELETE FROM`
-    (riferimento `08_DELETE.js`)
+    (esempio [qui](08_DELETE.js))
 
 >   
 La clausola `WHERE` specifica quali record saranno eliminati.

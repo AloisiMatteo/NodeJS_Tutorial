@@ -20,7 +20,7 @@ Adesso sei pronto per `mandare una mail` nel tuo server.
 
 Usando `username` e `password` della tua email selezionata potrai inviarci un messaggio.
 Con questa spiegazione sarai in grado di usare il tuo `account Gmail` per spedire un email:
-    (riferimento `09_Email_Module.js`)
+    (esempio [qui](09_Email_Module.js))
 
 
 ## Come mandare un email a piu persone

@@ -1,6 +1,9 @@
-# 1b - Lista delle interrogazioni al database (query)
+# Argomenti Seconda Sezione
 
-Tra le `principali` dichiarazioni che abbiamo per `interrogare un database` vediamo:
+In questa sezione tratteremo le `principali` dichiarazioni (o `statement`) 
+per `interrogare` un database.
+
+Tra queste vediamo:
 
 1. [Create Database](../Capitolo%202/)
 2. [Create Table](../Capitolo%203/)

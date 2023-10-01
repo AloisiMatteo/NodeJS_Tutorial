@@ -1,13 +1,13 @@
 # 06 - Where (query)
 
 Per `filtrare i record` mostrati in una tabella interna al database usiamo la dichiarazione `WHERE`
-    (riferimento `06_WHERE_1`)
+    (esempio [qui](06_WHERE_1.js))
 
 ## Uso dei caratteri jolly
 
 Puoi anche `mostrare` i record che `cominciano`, `includono` oppure che `finisco` con una lettera specifica.
 
-Usando `%` vengono rappresentate zero, una o più lettere (riferimento `06_WHERE_2.js`)
+Usando `%` vengono rappresentate zero, una o più lettere (esempio [qui](06_WHERE_2.js))
 
 
 ## Uso di query con valori di escape

@@ -36,4 +36,4 @@ Adesso che sappiamo come analizzare appieno una richiesta e che nello scorso cap
 Prenderemo come riferimento `summer.html` e `winter.html`.
 
 Creiamo un file NodeJs che `apre un file` specificato e ne `ritorna il contenuto` al client.
-In caso di un errore, questo manderà un `404 error` (riferimento `05_URL_Module.js`)
+In caso di un errore, questo manderà un `404 error` (esempio [qui](05_URL_Module.js))

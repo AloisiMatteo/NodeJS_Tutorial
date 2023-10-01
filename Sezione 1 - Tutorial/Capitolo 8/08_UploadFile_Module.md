@@ -25,7 +25,7 @@ Bisogna effettuare 3 passaggi per `caricare un file` attraverso l'uso del `modul
 ### Creare una forma
 
 `Creiamo una form` di compilazione `HTML` con NodeJS, questa form dovrà avere un campo di `caricamento file`
-   ( Prendiamo come riferimento `08_Esempio01.js`.)
+   (esempio [qui](08_Esempio01.js))
 
 ### Analizzare il file caricato
 
@@ -33,7 +33,7 @@ Includendo il `modulo Formidable` saremo in grado di analizzare il file caricato
     caricato nel server.
 
 Quando il file in questione viene `analizzato`, questo ha un proprio `spazio` in una `cartella temporanea`
-    all'interno del tuo computer (Riferimento `08_Esempio02.js`).
+    all'interno del tuo computer (esempio [qui](08_Esempio02.js)).
 
 ### Salvare il file caricato
 
@@ -43,4 +43,4 @@ Il percorso di questa cartella si trova nell'`oggetto files`, passato dal `metod
 
 Per `spostare il file` in una cartella prestabilita, useremo il `modulo File System`, e `rinomineremo` il file
 To move the file to the folder of your choice, use the File System module, and rename the file
-    (riferimento `08_Esempio03.js`)
+    (esempio [qui](08_Esempio03.js))

@@ -19,8 +19,7 @@ Questo `modulo` viene tipicamente `usato per`:
 
 ## Come leggere un file
 
-Per leggere un file si usa il metodo `fs.readFile()`
-Per quest'esempio prenderemo come riferimento `04_File_System_Module.html`
+Per leggere un file si usa il metodo `fs.readFile()` (esempio [qui](04_File_System_Module.html))
 
 Ora scriviamo il codice NodeJS in modo che prima `legge` e poi ci `ritorna` il contenuto del `file HTML`
 

@@ -1,13 +1,13 @@
 # 09 - Drop Table (Statment)
 
 Si può ` cancellare un tabella` esistente usando lo statment `DROP TABLE`
-    (riferimento `09_DROP_TABLE_1.js`)
+    (esempio [qui](09_DROP_TABLE_1.js))
 
 
 ## Come eliminare una tabella solo se esiste
 
 Se la tabella che vuoi eliminare è gia `stata cancellata`, oppure per un altra ragione `non esiste`,
-    puoi usare la parola chiave `IF EXIST` per evitare di avere un errore (riferimento `09_DROP_TABLE_2.js`)
+    puoi usare la parola chiave `IF EXIST` per evitare di avere un errore (esempio [qui](09_DROP_TABLE_2.js))
 
 Se la tabella `esiste` otterremo questo risultato:
 

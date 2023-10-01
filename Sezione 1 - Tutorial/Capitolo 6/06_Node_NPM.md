@@ -18,4 +18,4 @@ let uc = require('upper-case');
 ```
 
 Ora `creiamo un file` NodeJs che convertirà l'output `"Hello World!"` in `lettere maiuscole`
-Prendiamo come riferimento il file `06_Node_NPM.js`
+Esempio [qui](06_Node_NPM.js)

@@ -1,14 +1,14 @@
 # 05 - Select From (query)
 
 Per `mostrare i volari` in una tabella nel database usiamo la dichiarazione `SELECT FROM`
-    (riferimento `05_SELECT_FROM_1.js`)
+    (esempio [qui](05_SELECT_FROM_1.js))
 
 > SELECT * mostra tutte le colonne
 
 ## Come gestire le colonne mostrate
 
 Per `mostrare` solo qualcuna della colonne interne alla tabella, usiamo la `dichiarazione SELECT`
-    specificandone il `nome della colonna` di seguito (riferimento `05_SELECT_FROM_2.js`)
+    specificandone il `nome della colonna` di seguito (esempio [qui](05_SELECT_FROM_2.js))
 
 ## Oggetto 'campi'
 

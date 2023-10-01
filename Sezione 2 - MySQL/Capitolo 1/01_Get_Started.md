@@ -22,10 +22,10 @@ let mysql = require('mysql')
 ## Come creare una connessione
 
 Possiamo `creare una connessione` al database attraverso `username` e `password`
-    del tuo `database MySQL` (riferimento `01_Esempio01.js`)
+    del tuo `database MySQL` (esempio [qui](01_Esempio01.js))
 
 
 ## Come interrogare un database (fare una query)
 
 Le `interrogazioni` al database sono denominate `query`.
-Facciamo una prova su com'è possibile `interrogare` un database `MySQL` (riferimento `01_Esempio02.js`)
+Facciamo una prova su com'è possibile `interrogare` un database `MySQL` (esempio [qui](01_Esempio02.js))

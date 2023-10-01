@@ -27,7 +27,7 @@ Prendi come riferimento adesso queste due tabelle:
 ```
 
 Queste due `tabelle` possono essere `combinato` usando da utenti il campo `prodotti_preferiti`,
-    mentre da prodotti il campo `id`
+    mentre da prodotti il campo `id` (esempio [qui](12_JOIN.js))
 
 >   
 Puoi anche usare `INNER JOIN` anzichè `JOIN`, produrranno lo stesso risultato!

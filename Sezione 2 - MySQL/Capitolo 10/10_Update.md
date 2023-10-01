@@ -1,7 +1,7 @@
 # 10 - Update (statement)
 
 Puoi `aggiornare` record esistenti in una tabella usando lo statement `UPDATE`
-    (riferimento `10_UPDATE.js`)
+    (esempio [qui](10_UPDATE.js))
 
 >   
 La clausola `WHERE` specifica quali record saranno aggiornati.
